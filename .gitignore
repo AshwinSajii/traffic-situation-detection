@@ -1,0 +1,15 @@
+# Ignore Python cache
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore datasets (optional — remove if you want to keep .xlsx files in repo)
+*.csv
+
+# Ignore system files
+.DS_Store
+Thumbs.db
